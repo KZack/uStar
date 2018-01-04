@@ -1,0 +1,45 @@
+Partlist
+
+Exported from uStar.sch at 12/21/2017 4:17 PM
+
+EAGLE Version 8.5.0 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                           Device                          Package          Library           Sheet
+
+1WR      N/A                             PINHD-2X3                       2X03             pinhead           1
+ADC1                                     1,6/0,9                         1,6/0,9          wirepad           1
+ADC2                                     1,6/0,9                         1,6/0,9          wirepad           1
+ADC3                                     1,6/0,9                         1,6/0,9          wirepad           1
+C1       0.1 uF                          CAP-0603-0.1UF                  C0603            SSEL_RLC          3
+C5       0.1uF                           C-EUC0603                       C0603            resistor          3
+C6       1uF                             C-EUC0603                       C0603            resistor          3
+C7       10uF                            CPOL-EUSMCB                     SMC_B            resistor          3
+D2                                       D-B260A                         SMA-DO214AC      SSEL_DIODE        1
+DP0                                      1,6/0,9                         1,6/0,9          wirepad           1
+DP1                                      1,6/0,9                         1,6/0,9          wirepad           1
+DP2                                      1,6/0,9                         1,6/0,9          wirepad           1
+FTDI                                     FE05-1                          FE05-1           con-lsta          1
+GPS      SM06B-SSR-H-TB                  SM06B-SSR-H-TB                  SM06B-SSR-H-TB   con-jst2          1
+IC1      INA138                          INA138                          SOT23-5          burr-brown        3
+M1       Mount                           4X8MOUNT                        4X8MOUNT         EDGEQUBE_MISC     1
+NIRQ                                     1,6/0,9                         1,6/0,9          wirepad           1
+NSEL                                     1,6/0,9                         1,6/0,9          wirepad           1
+R2       1                               R-US_R0603                      R0603            resistor          3
+R3       5k                              R-US_R0603                      R0603            resistor          3
+R4       50K                             R-US_R0603                      R0603            rcl               3
+R5       50K                             R-US_R0603                      R0603            rcl               3
+R6       10K                             RES-0603-10K                    R0603            SSEL_RLC          1
+RADIO    RFM22BP                         RFM22BP                         RFM22BP          EDGEQUBE_PACKAGES 2
+RXANT                                    1,6/0,9                         1,6/0,9          wirepad           1
+TMP1     TMP3P                           TMP3P                           TMP3P            SSEL_MISC         1
+TMP2     TMP3P                           TMP3P                           TMP3P            SSEL_MISC         1
+TMP3     TMP36GRT                        TMP36GRT                        SOT-23-5         SSEL_IC           1
+TXANT                                    1,6/0,9                         1,6/0,9          wirepad           1
+U$1      App-Board 1.2/1.3               APP_CORE                        APPCORE_RECEIVER LearningByMaking2 1
+U$3      S7V8F3_VOLT_REG-3V3_1AHORZ-DOWN S7V8F3_VOLT_REG-3V3_1AHORZ-DOWN S7V_DOWN         Pololu            3
+U$5      9DOF                            9DOF                            9DOF             LearningByMaking  1
+U$7      S7V8F3_VOLT_REG-3V3_1AHORZ-DOWN S7V8F3_VOLT_REG-3V3_1AHORZ-DOWN S7V_DOWN         Pololu            3
+U$8      SDCARD                          SDCARD                          SDCARD           EDGEQUBE_PACKAGES 1
+X2       BU-SMA-V                        BU-SMA-V                        BU-SMA-V         con-coax          2
